@@ -1,7 +1,6 @@
 # 💫About Me :
-🔭 I’m currently working on Augusta HiTech Solution
-🌱 I’m currently learning Architecture
-💬 Ask me about PHP, Google cloud GAE hosting, Flutter
+🔭 I’m currently working on Tech Mahindra
+💬 Ask me about Flutter, PHP, Google cloud GAE hosting
 📫 How to reach me: me@robertrobinson.in
 
 ## 🌐Socials
