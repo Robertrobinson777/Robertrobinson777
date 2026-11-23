@@ -1,17 +1,16 @@
-<div align="center">
+<p align="center">
+  <h1>Hey, I'm Robert Robinson R (Robby) 👋</h1>
+  <strong>Senior Software Engineer @ Tech Mahindra · Flutter Specialist · Full-Stack & Cloud Builder</strong>
+  <br />
+  <em>Bridging complex cloud infrastructure with smooth, high-performance mobile and 3D web experiences.</em>
+</p>
 
-# Hey, I'm Robert Robinson R (Robby) 👋
-
-**Senior Software Engineer @ Tech Mahindra · Flutter Specialist · Full-Stack & Cloud Builder**
-
-*Bridging complex cloud infrastructure with smooth, high-performance mobile and 3D web experiences.*
-
-[[https://img.shields.io/badge/Portfolio-robertrobinson.in-000000?style=for-the-badge&logo=google-chrome&logoColor=white]](https://robertrobinson.in)
-[[https://img.shields.io/badge/LinkedIn-Robert_Robinson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white]](https://linkedin.com/in/robertrobinson777)
-[[https://img.shields.io/badge/X-@R__RobRobinson-111111?style=for-the-badge&logo=x&logoColor=white]](https://x.com/R_RobRobinson)
-[[https://img.shields.io/badge/Email-me@robertrobinson.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white]](mailto:me@robertrobinson.in)
-
-</div>
+<p align="center">
+  <a href="https://robertrobinson.in"><img src="https://img.shields.io/badge/Portfolio-robertrobinson.in-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/robertrobinson777"><img src="https://img.shields.io/badge/LinkedIn-Robert_Robinson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/R_RobRobinson"><img src="https://img.shields.io/badge/X-@R__RobRobinson-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:me@robertrobinson.in"><img src="https://img.shields.io/badge/Email-me@robertrobinson.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
@@ -38,75 +37,78 @@
 
 ### 🛠️ Tech Stack
 
-**Mobile & Frontend**  
-[https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white]
-[https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white]
-[https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB]
-[https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white]
-[https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black]
-[https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white]
-[https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=adobexd&logoColor=FF61F6]
+**Mobile & Frontend**
 
-**Backend & APIs**  
-[https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white]
-[https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white]
-[https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white]
-[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white]
-[https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white]
-[https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white]
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=adobexd&logoColor=FF61F6" alt="Adobe XD" />
+</p>
 
-**Cloud, Data & DevOps**  
-[https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white]
-[https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black]
-[https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white]
-[https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white]
-[https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white]
-[https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white]
-[https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white]
-[https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white]
+**Backend & APIs**
 
-**Tools & Hardware**  
-[https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white]
-[https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white]
-[https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white]
-[https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white]
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+**Cloud, Data & DevOps**
+
+<p>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="ElasticSearch" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+**Tools & Hardware**
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
+<p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Robertrobinson777&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robertrobinson777&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-
-<br/>
-
+<br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robertrobinson777&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
+</p>
 
 <details>
 <summary><b>🏆 GitHub Trophies & Dev Quote</b></summary>
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Robertrobinson777&theme=radical&no-frame=true&no-bg=false&margin-w=6" alt="GitHub Trophies" />
-  <br/><br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote" />
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Robertrobinson777&theme=radical&no-frame=true&no-bg=false&margin-w=6" alt="GitHub Trophies" />
+<br /><br />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote" />
+</p>
 </details>
 
 ---
 
-<div align="center">
-
-*Turning complex requirements into clean, resilient code.*
-
-[[https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black]](https://buymeacoffee.com/robertrobinsonr)
-[[https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white]](https://paypal.me/RobertRobinsonR)
-
-<br/>
-
-[[https://visitcount.itsvg.in/api?id=Robertrobinson777&icon=0&color=3]](https://visitcount.itsvg.in)
-
-</div>
+<p align="center">
+<em>Turning complex requirements into clean, resilient code.</em>
+<br /><br />
+<a href="https://buymeacoffee.com/robertrobinsonr"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" /></a>
+<a href="https://paypal.me/RobertRobinsonR"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" /></a>
+<br /><br />
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Robertrobinson777&icon=0&color=3" alt="Profile Views" /></a>
+</p>
